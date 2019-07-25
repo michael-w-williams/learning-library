@@ -1,3 +1,9 @@
+---
+layout: dblab
+description: Lab 01
+tags: dblab, oracle cloud
+permalink: /data-management-library/autonomous-data-warehouse/journey4-adwc/
+---
 <table class="tbl-heading"><tr><td class="td-logo">![](images/obe_tag.png)
 
 September 21, 2018
