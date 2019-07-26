@@ -2,7 +2,7 @@
 layout: dblab
 description: Lab 01
 tags: dblab, oracle cloud
-permalink: /data-management-library/autonomous-data-warehouse/journey4-adwc/
+permalink: /learning-library/data-management-library/autonomous-data-warehouse/journey4-adwc/LabGuide1.html
 ---
 <table class="tbl-heading"><tr><td class="td-logo">![](images/obe_tag.png)
 
